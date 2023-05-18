@@ -1,4 +1,4 @@
-# Grocery Products Recommender Systek
+# Grocery Products Recommender System
 
 Business Use Case:
 Customers make online grocery purchases from the Instacart grocery delivery service.
